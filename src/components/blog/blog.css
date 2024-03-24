@@ -1,0 +1,19 @@
+.blog{
+  width: auto;
+  margin:2%;
+  padding:3%;
+}
+#w3review{
+  width: 90%;
+  height:300px;
+  margin:5%;
+  margin-bottom:5px;
+}
+img{
+  margin:5%;
+  width:90%;
+}
+h1{
+  text-align: center;
+  margin-bottom: 10px;
+}

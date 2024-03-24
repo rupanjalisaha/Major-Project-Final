@@ -1,0 +1,37 @@
+.body{
+    width: auto;
+    position:relative;
+    height:auto;
+    margin: 2%;
+    padding: 3%;
+}
+h2{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.PracticeSection{
+    background-color: aliceblue;
+    width: auto;
+    margin: 2%;
+    padding: 3%;
+    border: 3px solid black;
+    border-radius:10px;
+}
+.PracticeSection> h1,h3,p{
+    padding: 5px;
+}
+.answer-list{
+    cursor: pointer;
+    margin:10px;
+}
+.answer-options{
+    margin: 10px;
+    margin-left: 20px;
+}
+.body > p{
+    margin-bottom: 20px;
+}
+.body> img{
+border: 5px solid black;
+padding: 15px;
+}
